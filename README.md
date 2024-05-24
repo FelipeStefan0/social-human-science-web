@@ -1,1 +1,3 @@
-# shsweb.github.io
+# SocialHumanScience WEB
+
+Projeto realizado como atividade avaliativa para AutoriaWeb.
